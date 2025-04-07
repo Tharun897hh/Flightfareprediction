@@ -8,7 +8,7 @@ import bz2
 
 
 st.text('Fill in your detalis to predict your filght price')
-st.image(r'C:\Users\tk896\OneDrive\Desktop\Temp\myproject\image1.png')
+st.image(r'https://github.com/Tharun897hh/Flightfareprediction/blob/main/app.py')
 ch=st.selectbox('Airline',('Select','Vistara','Air India','Indigo','GO FIRST','AirAsia','SpiceJet'))
 if(ch=='Vistara'):
     a=5
